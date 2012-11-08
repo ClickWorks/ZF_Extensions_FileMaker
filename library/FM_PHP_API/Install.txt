@@ -1,0 +1,5 @@
+FileMaker PHP API files should be copied here.
+
+Because of different versions depending on the FileMaker versions, and licensing restrictions we cannot provide them ourselves.
+
+The directory layout here would be so that this directory contains a file name 'FileMaker.php' and a  folder named 'FileMaker'.
